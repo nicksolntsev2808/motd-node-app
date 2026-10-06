@@ -1,0 +1,12 @@
+{
+  "name": "motd-node-app",
+  "version": "1.0.0",
+  "description": "Status board: Express + вспомогательный модуль с настройками",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
